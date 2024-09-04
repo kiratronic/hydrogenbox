@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_healthwidget.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_4-unit_bar.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_EnergyBar.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_YELLOW__4-unit_bar.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/BP_Health.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/BP_Energy.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_revolverammobar_full.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_Revolver_Ammo_background.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T_revolverammobar.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/BP_RevolverAmmo.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Globall/PP_SharpeningFIlter.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Globall/Fonts/Gameplay.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Globall/Fonts/Gameplay_Font.uasset",
+				"C:/Users/kira milkyway/Documents/GitHub/hydrogenbox/hydrogenbox/Content/Player/UI/T-crosshar.uasset",
 				"C:/Users/kira/Documents/Unreal Projects/hydrogenbox/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
