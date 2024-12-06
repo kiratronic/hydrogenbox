@@ -285,8 +285,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\UHT"
-/I "C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Source"
+/I "C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyProject\UHT"
+/I "C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Source"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"

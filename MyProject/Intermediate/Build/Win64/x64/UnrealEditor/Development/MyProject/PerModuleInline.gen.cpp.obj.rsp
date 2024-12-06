@@ -1,12 +1,12 @@
-"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp"
-/FI"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
-/Yu"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.obj"
-/experimental:log "C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.sarif"
-/sourceDependencies "C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.dep.json"
-@"C:\Users\kira milkyway\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
+"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp"
+/FI"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Definitions.MyProject.h"
+/Yu"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.obj"
+/experimental:log "C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.sarif"
+/sourceDependencies "C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\PerModuleInline.gen.cpp.dep.json"
+@"C:\Users\kira milkyway\Documents\GitHub\hydrogenbox\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
